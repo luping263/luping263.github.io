@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luping263.github.io/blog/</id>
     <title>温小白的官方网站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-06-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luping263.github.io/blog/"/>
     <subtitle>温小白的官方网站 Blog</subtitle>
     <icon>https://luping263.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴诗]]></title>
+        <id>https://luping263.github.io/blog/happy/</id>
+        <link href="https://luping263.github.io/blog/happy/"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小白乘舟将欲行，]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="小白乘舟将欲行">小白乘舟将欲行，<a class="hash-link" aria-label="Direct link to 小白乘舟将欲行，" title="Direct link to 小白乘舟将欲行，" href="https://luping263.github.io/blog/happy/#%E5%B0%8F%E7%99%BD%E4%B9%98%E8%88%9F%E5%B0%86%E6%AC%B2%E8%A1%8C">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="忽闻水上求救声">忽闻水上求救声。<a class="hash-link" aria-label="Direct link to 忽闻水上求救声。" title="Direct link to 忽闻水上求救声。" href="https://luping263.github.io/blog/happy/#%E5%BF%BD%E9%97%BB%E6%B0%B4%E4%B8%8A%E6%B1%82%E6%95%91%E5%A3%B0">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="回头一看是主人">回头一看是主人，<a class="hash-link" aria-label="Direct link to 回头一看是主人，" title="Direct link to 回头一看是主人，" href="https://luping263.github.io/blog/happy/#%E5%9B%9E%E5%A4%B4%E4%B8%80%E7%9C%8B%E6%98%AF%E4%B8%BB%E4%BA%BA">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="扔块砖头进水中">扔块砖头进水中。<a class="hash-link" aria-label="Direct link to 扔块砖头进水中。" title="Direct link to 扔块砖头进水中。" href="https://luping263.github.io/blog/happy/#%E6%89%94%E5%9D%97%E7%A0%96%E5%A4%B4%E8%BF%9B%E6%B0%B4%E4%B8%AD">​</a></h3>]]></content>
+        <author>
+            <name>温 小白</name>
+            <uri>https://github.com/luping263</uri>
+        </author>
+        <category label="随笔" term="随笔"/>
+        <category label="诗" term="诗"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://luping263.github.io/blog/welcome/</id>
